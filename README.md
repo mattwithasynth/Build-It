@@ -16,7 +16,7 @@
 
 ---
 
-[Preview Audio M4A](/assets/audio/demo.m4a "Preview Audio") [Preview Audio MP3](/assets/audio/demo.mp3 "Preview Audio")
+[Preview Audio M4A](/assets/audio/demo.m4a "Preview Audio") / [Preview Audio MP3](/assets/audio/demo.mp3 "Preview Audio")
 
 ---
 

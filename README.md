@@ -1,12 +1,14 @@
-# MWAS Music Project: Well Being
+# MWAS Music Project: Build It
 
 ---
 
 ### Details
 
-**Title:** Well Being
+**Title:** Build It
 
-**Duration:** 1m 17s (00:01:17)
+**Descriptino:** A movement track with pads and leads and a techno feel
+
+**Duration:** 0m 14s (00:00:14)
 
 **Format:** Logic Pro X
 
@@ -14,7 +16,7 @@
 
 ---
 
-[Preview Audio](/assets/audio/WellBeingDemo.m4a "Preview Audio")
+[Preview Audio M4A](/assets/audio/demo.m4a "Preview Audio") [Preview Audio MP3](/assets/audio/demo.mp3 "Preview Audio")
 
 ---
 

@@ -6,7 +6,7 @@
 
 **Title:** Build It
 
-**Descriptino:** A movement track with pads and leads and a techno feel
+**Description:** A movement track with pads and leads and a techno feel
 
 **Duration:** 0m 14s (00:00:14)
 

@@ -24,6 +24,6 @@
 
 ---
 
-![Well Being Screenshot](/assets/images/screenshot_thumb.png)
+![Screenshot](/Build%20It.logicx/Alternatives/000/WindowImage.jpg)
 
-[View Full Size](/assets/images/screenshot.png "Full Size")
+[View Full Size](/Build%20It.logicx/Alternatives/000/WindowImage.jpg "Full Size")
